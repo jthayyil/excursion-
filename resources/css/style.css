@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    text-align:center;
+    }
+    
+    .main{
+    color:white;
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    }
+    
+    .second{
+    font-family:verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    }
+    
+    .act{
+    color: aquamarine;
+    font-size: 16px;
+    }
+    
+    p{
+    color: gray;
+    font-size:21px;
+    font-family:verdana;
+    }
+    
+    .footer{
+    color: gray;
+    text-align: right;
+    }
